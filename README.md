@@ -6,7 +6,7 @@
 		<img src='./Assets/logo.png' width=20% align='center' />	
 </p>
 
-<h4 align="center"> A series of workshop on flutter conducted for SDC VIT. This repository contains all the material used in the workshops categorized by no of sessions indiviaully.</h4>
+<h4 align="center"> A series of workshop on flutter conducted for SDC VIT. This repository contains all the material used in the workshops categorized by no of sessions individually.</h4>
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://flutter.dev/docs) 
