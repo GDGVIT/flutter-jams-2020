@@ -15,11 +15,11 @@
 
 ## Sessions Material
 
-1. [Session1 Material](https://github.com/GDGVIT/Flutter-StudyJams/tree/master/Session%201)
-2. [Session2 Material](https://github.com/GDGVIT/Flutter-StudyJams/tree/master/Session%202)
-3. [Session3 Material](https://github.com/GDGVIT/Flutter-StudyJams/tree/master/Session%203)
-4. [Session4 Material](https://github.com/GDGVIT/Flutter-StudyJams/tree/master/Session%204)
-5. [Session5 Material](https://github.com/GDGVIT/Flutter-StudyJams/tree/master/Session%205)
+1. [Session1 Material](https://github.com/GDGVIT/flutter-jams-2020/tree/master/Session%201)
+2. [Session2 Material](https://github.com/GDGVIT/flutter-jams-2020/tree/master/Session%202)
+3. [Session3 Material](https://github.com/GDGVIT/flutter-jams-2020/tree/master/Session%203)
+4. [Session4 Material](https://github.com/GDGVIT/flutter-jams-2020/tree/master/Session%204)
+5. [Session5 Material](https://github.com/GDGVIT/flutter-jams-2020/tree/master/Session%205)
 
 <br>
 
