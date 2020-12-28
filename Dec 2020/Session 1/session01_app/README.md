@@ -1,4 +1,4 @@
-# widgets_app
+# session01_app
 
 A new Flutter project.
 
